@@ -7,7 +7,7 @@
 - **References**
 
 ## What is DeepRec
-DeepRec is a tool, which contains a variety of classic deep learning models, such as dnn, ipnn, opnn, deepWide, deepFM.We will continue to improve the tool.
+Deeprec is a portable, flexible and comprehensive library including a variety of state-of-the-art deep learning based recommendation models. It aims to solve the item ranking task. Deeprec implements both feature based methods and raw-signal based methods. In feature based methods, deep learning models are applied to the extracted feature files with the specified format. In raw-signal based methods, deep learning models are directly applied to raw singal such as text, images and graph. Current supported models are listed in the following, more methods will be expected in the near future. 
 
 ## Data Format
 The data format of LIBFFM is:
